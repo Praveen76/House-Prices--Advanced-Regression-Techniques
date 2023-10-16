@@ -1,7 +1,13 @@
 # House-Prices--Advanced-Regression-Techniques
-**Data:** The dataset contains 80 input features, and 1 Target variable called SalePrice. We're expected to predict the sale price of different houses with various features such as MSSubClass, LotFrontage, LotArea, etc. This is a Regression problem. You can import dataset from the [following link](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data) to replicate the same results and follow along the experiement. We'll use XgBoost to solve this problem.
+**Data:** The dataset contains 80 input features, and 1 Target variable called SalePrice. We're expected to predict the sale price of different houses with various features such as MSSubClass, LotFrontage, LotArea, etc. 
 
-**Important learnings: **
+![House Price Prediction](https://github.com/Praveen76/House-Prices--Advanced-Regression-Techniques/blob/main/1_D6s2K1y7kjE14swcgITB1w.png
+)
+
+
+This is a Regression problem. You can import dataset from the [following link](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data) to replicate the same results and follow along the experiement. We'll use XgBoost to solve this problem.
+
+**Important learnings:**
 * Wite a re-usable function to determine data type, Null Counts,	Unique values, and Null_Percent in each variable and store in a dataframe.
 * Feature Engineering.
 * Easy method to check Null values across different features in dataset.
