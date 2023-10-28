@@ -7,7 +7,22 @@
 
 This is a Regression problem. You can import dataset from the [following link](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data) to replicate the same results and follow along the experiement. We'll use XgBoost to solve this problem.
 
-**Important learnings:**
+# Instructions for Installation:
+
+**Dependencies:** : You'll need to install below dependencies to run this project.
+
+* json: 2.0.9
+* pandas: 1.0.1
+* numpy: 1.18.1
+* matplotlib: 3.5.3
+* seaborn: 0.10.0
+* sklearn: 0.22.1
+* 
+The code has been tested on Windows system. It should work well on other distributions but has not yet been tested.
+
+In case of any issue with installation or otherwise, please contact me on [Linkedin](https://www.linkedin.com/in/praveen-kumar-anwla-49169266/)
+
+# **Important learnings:**
 * Wite a re-usable function to determine data type, Null Counts,	Unique values, and Null_Percent in each variable and store in a dataframe.
 * Feature Engineering.
 * Easy method to check Null values across different features in dataset.
